@@ -16,7 +16,7 @@ const App = () => (
     <Gallery />
     <FindUs />
     <Footer />
-  </div>
+  </div> 
 );
 
 export default App;
